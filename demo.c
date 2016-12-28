@@ -2,7 +2,7 @@
  
 void main()
 {
-   int a=4,b=5,c;
+   int a=10,b=5,c;
   c=a+b;
 }
 
